@@ -1,0 +1,17 @@
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.csproj.AssemblyReference.cache
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.AssemblyInfoInputs.cache
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.AssemblyInfo.cs
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\WebScraperApplication.exe
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\WebScraperApplication.deps.json
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\WebScraperApplication.runtimeconfig.json
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\WebScraperApplication.dll
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\WebScraperApplication.pdb
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.csproj.CopyComplete
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.dll
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\refint\WebScraperApplication.dll
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.pdb
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\WebScraperApplication.genruntimeconfig.cache
+C:\Users\Sumit\OneDrive\Documents\WebScraperApplication\WebScraperApplication\obj\Debug\net6.0\ref\WebScraperApplication.dll

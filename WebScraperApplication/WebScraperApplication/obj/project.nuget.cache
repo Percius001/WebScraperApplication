@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgoBYqRAmoQXFvhtLk4x+9VMOOJBZ+cKA3I9qj/YUl71/52HsKtrlptC5QhCS2Acy89S9j/Jjg/tzF+3Rznohw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sumit\\OneDrive\\Documents\\WebScraperApplication\\WebScraperApplication\\WebScraperApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumit\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
