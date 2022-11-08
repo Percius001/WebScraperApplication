@@ -14,6 +14,9 @@ foreach(JobInfo job in jobInfos)
     Console.Write("Job Title: ");
     Console.WriteLine(job.Title);
     Console.WriteLine();
+    Console.Write("Job Location: ");
+    Console.WriteLine(job.Location);
+    Console.WriteLine();
     Console.WriteLine("Job Descirption:");
     Console.WriteLine(job.Description);
     Console.WriteLine();
